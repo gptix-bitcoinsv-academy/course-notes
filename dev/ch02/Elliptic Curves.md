@@ -4,7 +4,7 @@
 - y2 = 𝑥2 + a𝑥 + 𝑏 
 - and
 - 4𝑎3 + 27𝑏3 ≠ 0 
-- Bitcoin uses, specifically, a Koblitz curve specdified in  **Standards for Efficient Cryptography** standard, specifically **secp256k1**.
+- Bitcoin uses a Koblitz curve specified in  **Standards for Efficient Cryptography** standard: **secp256k1**.
 - Bitcoin uses the equation 
 - y2 = (𝑥3 + 7) mod p
 - with values of curve parameters required by secp256k1 for a specific base point **G**.
