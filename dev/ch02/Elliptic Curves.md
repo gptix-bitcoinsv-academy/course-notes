@@ -18,6 +18,7 @@
 - aB = abG = baG = bA.
 - Alice's private key times Bob's public key is the same as Bob's private key times Alice's public key.
 - This allows either Alice or Bob to encrypt a message using their private key and the recipient's public key, and for the recipient to decrypt the encrypted message using the recipient's private key and the sender's public key.
+## Practice Code
  
 ```shell
 // The bsv library contains functions related to creation of a G, 
