@@ -66,9 +66,11 @@ undefined
 
 // P is a point in 2D, so we can find its X and Y.
 > P.getX()
-// Displays: <BN: 4d307e961bed3b29a95b7b7ae9eeb52d6c3e0d792dac259ef492cf03689a039a>
+//  Displays something like:
+<BN: 4d307e961bed3b29a95b7b7ae9eeb52d6c3e0d792dac259ef492cf03689a039a>
 // This is the x component of P, and matches the output above.
 
 > P.getY()
-// Displays: <BN: 9b822fc785f131ca831f38f9ef7329a5b0ce976dcf784f58e22d1f66e62abb99>
+//  Displays something like:
+<BN: 9b822fc785f131ca831f38f9ef7329a5b0ce976dcf784f58e22d1f66e62abb99>
 ```
