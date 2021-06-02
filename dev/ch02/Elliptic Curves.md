@@ -1,3 +1,4 @@
+# Elliptic Curves
 - "Elliptic Curves" is a relatively advanced mathematical subject. Needing to understand this subject in detail is unlikely to be necessary for a development project using BSV. However, a particular elliptic curve is used in **Elliptic Curve Digital Signature Algorithm** (ECDSA). In turn, ECDSA is central to creation and management of UTXO's.
 - An elliptic curve is the set of all points that satisfy the conditions
 - y2 = 𝑥2 + a𝑥 + 𝑏 
